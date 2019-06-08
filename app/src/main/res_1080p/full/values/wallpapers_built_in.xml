@@ -16,7 +16,7 @@
 <resources>
 
     <array name="wallpaper_built_in_drawables">
-        <item>@drawable/abstract_nlos</item>
+        <item>@drawable/abstract_los</item>
         <item>@drawable/abstract_ink</item>
         <item>@drawable/abstract_orderofchaos</item>
         <item>@drawable/abstract_spacestory</item>
@@ -30,7 +30,7 @@
     </array>
 
     <string-array name="wallpaper_built_in_names">
-        <item>@string/wallpaper_built_in_nlos</item>
+        <item>@string/wallpaper_built_in_los</item>
         <item>@string/wallpaper_built_in_ink</item>
         <item>@string/wallpaper_built_in_orderofchaos</item>
         <item>@string/wallpaper_built_in_spacestory</item>
