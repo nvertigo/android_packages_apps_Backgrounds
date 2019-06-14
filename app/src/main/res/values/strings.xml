@@ -47,6 +47,7 @@
     <eat-comment />
 
     <string translatable="false" name="wallpaper_built_in_los">LineageOS</string>
+    <string translatable="false" name="wallpaper_built_in_los-dark">LineageOS dark</string>
     <string translatable="false" name="wallpaper_built_in_ink">Ink</string>
     <string translatable="false" name="wallpaper_built_in_orderofchaos">Order of chaos</string>
     <string translatable="false" name="wallpaper_built_in_spacestory">Space story</string>
